@@ -1,0 +1,18 @@
+DEBUG[08-09|02:16:55.721] Sanitizing Go's GC trigger               percent=100
+INFO [08-09|02:16:55.722] Maximum peer count                       ETH=25 LES=0 total=25
+DEBUG[08-09|02:16:55.723] FS scan times                            list=0s set=0s diff=0s
+INFO [08-09|02:16:55.731] Starting peer-to-peer node               instance=Geth/v1.8.27-stable-4bcc0a37/windows-amd64/go1.11.5
+INFO [08-09|02:16:55.731] Allocated cache and file handles         database=C:\\Users\\g14m1190\\Documents\\BlockchainNode1\\geth\\chaindata cache=512 handles=8192
+INFO [08-09|02:16:55.839] Writing default main-net genesis block 
+DEBUG[08-09|02:16:56.043] Trie cache stats after commit            misses=0 unloads=0
+INFO [08-09|02:16:56.095] Persisted trie from memory database      nodes=12356 size=1.88mB time=51.8609ms gcnodes=0 gcsize=0.00B gctime=0s livenodes=1 livesize=0.00B
+INFO [08-09|02:16:56.099] Initialised chain configuration          config="{ChainID: 1 Homestead: 1150000 DAO: 1920000 DAOSupport: true EIP150: 2463000 EIP155: 2675000 EIP158: 2675000 Byzantium: 4370000 Constantinople: 7280000  ConstantinopleFix: 7280000 Engine: ethash}"
+INFO [08-09|02:16:56.099] Disk storage enabled for ethash caches   dir=C:\\Users\\g14m1190\\Documents\\BlockchainNode1\\geth\\ethash count=3
+INFO [08-09|02:16:56.099] Disk storage enabled for ethash DAGs     dir=C:\\Users\\g14m1190\\AppData\\Ethash                          count=2
+INFO [08-09|02:16:56.099] Initialising Ethereum protocol           versions="[63 62]" network=1234
+INFO [08-09|02:16:56.123] Loaded most recent local header          number=0 hash=d4e567…cb8fa3 td=17179869184 age=50y3mo3w
+INFO [08-09|02:16:56.123] Loaded most recent local full block      number=0 hash=d4e567…cb8fa3 td=17179869184 age=50y3mo3w
+INFO [08-09|02:16:56.123] Loaded most recent local fast block      number=0 hash=d4e567…cb8fa3 td=17179869184 age=50y3mo3w
+DEBUG[08-09|02:16:56.123] Reinjecting stale transactions           count=0
+INFO [08-09|02:16:56.124] Regenerated local transaction journal    transactions=0 accounts=0
+DEBUG[08-09|02:16:56.125] Recalculated downloader QoS values       rtt=20s confidence=1.000 ttl=1m0s

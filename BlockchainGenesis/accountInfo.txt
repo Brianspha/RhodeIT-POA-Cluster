@@ -1,0 +1,24 @@
+sealear accounts:{
+
+    "sealear":
+    {
+        "address":"0xae3478f55aE21B9139652467D0B73177d6bEc204"
+        "privatekey":"c0322186f484ec22fd405a55355f98234bc174516dcf6deb897a5c1108e1c382"
+    },
+    "sealear":
+    {
+        "address":"0xb8C8316D7a3B401a835461C0AaF926C0caF5eF89"
+        "privatekey":"07ce0e4dc1e67cbb6aa94904a9b614e194bf70c25d58717b53c7671337bc5497"
+    },
+    "sealear":
+    {
+        "address":"0xf6168889123b15eF48352E1624a5F5E6a9c4CDD8"
+        "privatekey":"396a0aae771d461e445efebf040c60cf03344d449653267f5c3d2ead7f52ecab"
+    },
+    "sealear":
+    {
+        "address":"0xc1e79667933D4ce18331DD73fC1ACF87da4b524f"
+        "privatekey":"d236324612690e942034717d05676e622e9084f60c7055043cc6f1278be5d834"
+    }
+
+}
