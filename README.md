@@ -13,7 +13,6 @@ station
 
 - Basic Architecture
 ![Alt text](/Screenshots/1.PNG)
-<br />
 
 ### Spinning of a Sealer Node
 
