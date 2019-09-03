@@ -1,1 +1,1 @@
-geth --datadir "C:\Users\g14m1190\Documents\BlockchainGenesis\BlockchainData" init "C:\Users\g14m1190\Documents\BlockchainGenesis\rhodeit.json"
+geth --datadir ./"BlockchainData" init ./rhodeit.json

@@ -1,1 +1,1 @@
-geth attach http://localhost:11001 --exec miner.start(5)
+geth attach http://localhost:11001 --exec miner.start(2)
