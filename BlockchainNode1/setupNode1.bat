@@ -1,1 +1,0 @@
-geth --datadir "C:\Users\g14m1190\Documents\BlockchainNode1" --ipcdisable --port 10001 --rpcport 11001  --networkid 1234  --verbosity 100  --nodiscover --ipcdisable console 2>> log.log
