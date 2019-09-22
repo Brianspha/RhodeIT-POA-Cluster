@@ -1,1 +1,1 @@
-geth --datadir ./"NodeData" init ./rhodeit.json
+geth --datadir ./"BlockchainData" init ./rhodeit.json
