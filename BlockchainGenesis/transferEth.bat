@@ -1,0 +1,1 @@
+geth attach ws://localhost:12000 --exec eth.accounts.map(function(e){eth.sendTransaction({to:e, from:eth.accounts[0], value:web3.toWei("1000", "ether")})}); 
