@@ -1,1 +1,0 @@
-geth --datadir geth --datadir ./"BlockchainData"  init ../BlockchainGenesis/rhodeit.json 

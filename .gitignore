@@ -1,2 +1,5 @@
-BlockchainGenesis/BlockchainData/geth/
-BlockchainNode1/BlockchainData/geth/
+SealerNode/BlockchainData/geth/
+SealerNode/BlockchainData/geth/
+Archive-Node/BlockchainData/geth/
+Archive-Node/log.log
+SealerNode1/BlockchainData/geth/*

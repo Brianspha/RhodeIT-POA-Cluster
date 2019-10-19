@@ -1,0 +1,1 @@
+geth --datadir geth --datadir ./"BlockchainData"  init ../SealerNode/rhodeit.json 
