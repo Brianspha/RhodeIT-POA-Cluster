@@ -3,7 +3,7 @@ Proof of Authority Blockchain Cluster
 
 ### Network Structure
 - Overview
-![Alt text](/Screenshots/2.png)
+![Alt text](/Screenshots/2.JPG)
 ### Raspberry PI3B
 The raspberry PI is used as a client node whos responsibility is to send transaction to the sealer nodes, it acts as a
 Bluetooth server at a docking station thus creating a internet of Raspberry PIS who are also responsible for
