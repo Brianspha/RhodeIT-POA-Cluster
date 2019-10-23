@@ -1,0 +1,1 @@
+geth attach ws://localhost:12000 --exec eth.accounts.map(function(e){personal.unlockAccount(e,'hello',0)}); 
